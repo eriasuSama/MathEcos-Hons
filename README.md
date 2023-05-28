@@ -7,4 +7,4 @@ Example used the 10 stock of the JSE.
 - matplotlib
 - searbon
 - scipy.
-Need to commit changes from my codespace
+ Need to commit changes from my codespace
